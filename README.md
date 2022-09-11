@@ -1,2 +1,2 @@
 # qa_java
-QA Java Project
+QA Java Project for 6 sprint
