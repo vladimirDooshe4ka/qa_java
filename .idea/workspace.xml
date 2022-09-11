@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca6cad7-43eb-4381-aa3e-53337fe66caf" name="Changes" comment="" />
+    <list default="true" id="cca6cad7-43eb-4381-aa3e-53337fe66caf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FelineParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FelineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LionParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Lion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
