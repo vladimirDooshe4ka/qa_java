@@ -15,11 +15,7 @@ public class CatTest {
     @Test
     public void getCatSoundReturnsMeow() {
         Cat cat = new Cat(feline);
-        String expected = "Мяу";
-        String actual = cat.getSound();
-        assertEquals("Некорректный результат вызова метода", expected, actual);
-        System.out.println("Ожидаемый результат: " + expected);
-        System.out.println("Фактический результат: " + actual);
+        assertEquals("Мяу", cat.getSound());
     }
 
     @Test
